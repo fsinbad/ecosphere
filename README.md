@@ -1,4 +1,4 @@
-# Carbon Credit Marketplace
+# Ecosphere - Carbon Credit Marketplace
 
 A decentralized marketplace for verified carbon credits built on Ethereum using Circle's Web3 Services. This application demonstrates how Circle's platform can be used to create a transparent, efficient marketplace for environmental assets.
 
